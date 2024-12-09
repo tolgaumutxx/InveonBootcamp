@@ -1,0 +1,15 @@
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/bin/Debug/net9.0/BootCampWeek1
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/bin/Debug/net9.0/BootCampWeek1.deps.json
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/bin/Debug/net9.0/BootCampWeek1.runtimeconfig.json
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/bin/Debug/net9.0/BootCampWeek1.dll
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/bin/Debug/net9.0/BootCampWeek1.pdb
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.AssemblyInfoInputs.cache
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.AssemblyInfo.cs
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.csproj.CoreCompileInputs.cache
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.sourcelink.json
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.dll
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/refint/BootCampWeek1.dll
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.pdb
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/BootCampWeek1.genruntimeconfig.cache
+/Users/tolgaumut/Desktop/Inveon Bootcamp/InveonBootcamp/BootCampWeek1/obj/Debug/net9.0/ref/BootCampWeek1.dll

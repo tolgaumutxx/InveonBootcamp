@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <StartupObject>BootCampWeek1.Program</StartupObject>
+    
+    <Nullable>enable</Nullable>
+    
+  </PropertyGroup>
+ <ItemGroup>
+    <Compile Include = "Program.cs"/>
+    <Compile Include="SRP_Example\*.cs" />
+    <Compile Include="OCP_Example\*.cs" />
+    <Compile Include="LSP_Example\*.cs" />
+    <Compile Include="ISP_Example\*.cs" />
+    <Compile Include="DIP_Example\*.cs" />
+    <Compile Include="Async_Example\*.cs" />
+    </ItemGroup>
+
+
+</Project>
